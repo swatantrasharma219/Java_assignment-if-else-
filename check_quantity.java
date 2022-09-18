@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-    public class ifelse3 {
+    public class quantity {
         public static void main(String[] args) {
             int quantity,x,a;
             Scanner sc = new Scanner(System.in);
